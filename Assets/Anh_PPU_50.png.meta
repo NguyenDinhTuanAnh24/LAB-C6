@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: b946943bb64c9964da4d2ebd762b11ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1527124561825903448
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_0"
+  - first:
+      213: 223056558122937004
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_1"
+  - first:
+      213: 5748012178999458728
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_2"
+  - first:
+      213: 1443401487789658900
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_3"
+  - first:
+      213: -2616162338615913977
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_4"
+  - first:
+      213: 7974545361987998137
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_5"
+  - first:
+      213: -5712513719642926128
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_6"
+  - first:
+      213: -8166753589665667940
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_7"
+  - first:
+      213: -1935563440478739743
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_8"
+  - first:
+      213: -4776067357122306684
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_9"
+  - first:
+      213: 1424060344271534695
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_10"
+  - first:
+      213: -4629448304765910228
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_11"
+  - first:
+      213: 4081399446864050805
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_12"
+  - first:
+      213: -5486183827521688777
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_13"
+  - first:
+      213: 9176409966560501134
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_14"
+  - first:
+      213: -4001356172760841300
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_15"
+  - first:
+      213: 6176028867953133572
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_16"
+  - first:
+      213: -2701518842997681841
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_17"
+  - first:
+      213: 7703769815988772732
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_18"
+  - first:
+      213: -3544676156363688837
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_19"
+  - first:
+      213: 9138949616306978823
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_20"
+  - first:
+      213: -1341108310624671970
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_21"
+  - first:
+      213: 3983762550123543781
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_22"
+  - first:
+      213: -4176744588550397187
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_23"
+  - first:
+      213: -6483383747256721334
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_24"
+  - first:
+      213: -6201601255696010455
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_25"
+  - first:
+      213: -8118379192903889308
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_26"
+  - first:
+      213: -7775396899153335815
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_27"
+  - first:
+      213: -4128433843558489807
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_28"
+  - first:
+      213: -3337419170381002932
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_29"
+  - first:
+      213: -5946174959642650074
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_30"
+  - first:
+      213: -8990614472524140228
+    second: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anh_PPU_50_3
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 2632
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd642e4500f1e684d95ccf10bee815e4
+      internalID: 66770761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab4_Before.png
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2087
+        width: 420
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 210, y: -116.857414}
+        - {x: 210, y: 319}
+        - {x: -91.35743, y: 319}
+        - {x: -207.08008, y: 83.82619}
+        - {x: -207.08008, y: -277.99023}
+        - {x: -180.71289, y: -319}
+        - {x: 66.8457, y: -319}
+      - - {x: 78.56445, y: -8.458972}
+        - {x: 75.634766, y: -1.1347532}
+        - {x: 77.09961, y: -2.599597}
+        - {x: 81.49414, y: -2.599597}
+        - {x: 88.81836, y: -6.994128}
+        - {x: 91.74805, y: -6.994128}
+        - {x: 103.4668, y: -12.853503}
+        - {x: 123.97461, y: -11.3886595}
+        - {x: 112.25586, y: -12.853503}
+        - {x: 93.21289, y: -12.853503}
+        - {x: 84.42383, y: -14.318347}
+        - {x: 80.0293, y: -17.248035}
+        - {x: 78.56445, y: -18.71288}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c205b5c3b75141afbd0b174a86d2c
+      internalID: 1674093544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2724
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c22aebca5d9604419cc31789f736074
+      internalID: -234855167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2657
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b16eeaa21729544932aca89cd7d175
+      internalID: -1055285828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2527
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a46bb2b47db697409fc16bff713a4af
+      internalID: 794500761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_5
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1967
+        width: 440
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c055d2d25a94df4199ec5fd9a5c4fed
+      internalID: -104680718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_6
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1965
+        width: 385
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefbc48cb4cce2409d89fd0b5529b4d
+      internalID: 559970260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2426
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196155050233b54a8745d77b0d266e8
+      internalID: 534792060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_8
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2420
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6085b607c7096554da3a4def77e65511
+      internalID: 961568524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_9
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2031
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843cdfceacc73b344b4b91238d748925
+      internalID: 1880385070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_10
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1930
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542034ab3c79d543882be654578136a
+      internalID: 2090233565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_11
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1930
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5258ffa7db4854f98349c3f4ad0998
+      internalID: -336755067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1846
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e94e8493d8bc64dad805fba7c26982
+      internalID: -1336308103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_13
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1844
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc8b21e1b0438a4689703c8008fee75
+      internalID: -1391826971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1176
+        width: 352
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0464a17b1526764aa49f176963e6c9e
+      internalID: -222326930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_15
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1786
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb0e54cf667f0f41922d0783a1b69c5
+      internalID: 1145921150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_16
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1181
+        width: 434
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde1705a6de7c242ab412ac0cf9ebcd
+      internalID: -1741097988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1633
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7219e1f6ba191f479ac1e866e7367d7
+      internalID: -1861013855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_18
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1139
+        width: 422
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec468df28d03e247a83e0fa7770b344
+      internalID: -670504927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_19
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1639
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2860732c8db5ae44b6f0b912283c792
+      internalID: 665901459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_20
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1581
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189dc35fd5ec7a4298c8ab6daee1557
+      internalID: 450317188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1143
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e06943684ac2d845b79200766f524d4
+      internalID: -16508125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_22
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1143
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c0f289aa85aa49b3b45af63d1bf68
+      internalID: -896411689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_23
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1083
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b534f583eee9124bb290a8910ceef29
+      internalID: 2073841057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 789
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad149f79f427ce4f86a06e14d55eac9
+      internalID: 1207814684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_25
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 802
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364c12a6bebc4046aab00eaf445f343
+      internalID: -1210099904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 141
+        width: 394
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1355a3562fb4d7b4baaa48d1dd389a87
+      internalID: -263820267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 596
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7b9243512ad84585111b4fdb38b8a
+      internalID: -1801775611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_28
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 139
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384c26733c048d4faa38ad8584de521
+      internalID: 684001483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_29
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 642
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611fbce96fb0d0f419726b0473f01436
+      internalID: -1249302222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_30
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 595
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3763fd1ca2d9b34f91c990e589bb7b1
+      internalID: -484453293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_31
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 105
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba44eee9ea77c0439a65ba7769a1d23
+      internalID: 693430253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh_PPU_50_32
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 105
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d47199ebd1554dab42dba26dae421
+      internalID: -383790097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: abd57ac0b5398344caa7c5aa415fb787
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anh_PPU_50_0: -234855167
+      Anh_PPU_50_10: 2090233565
+      Anh_PPU_50_11: -336755067
+      Anh_PPU_50_12: -1336308103
+      Anh_PPU_50_13: -1391826971
+      Anh_PPU_50_14: -222326930
+      Anh_PPU_50_15: 1145921150
+      Anh_PPU_50_16: -1741097988
+      Anh_PPU_50_17: -1861013855
+      Anh_PPU_50_18: -670504927
+      Anh_PPU_50_19: 665901459
+      Anh_PPU_50_2: -1055285828
+      Anh_PPU_50_20: 450317188
+      Anh_PPU_50_21: -16508125
+      Anh_PPU_50_22: -896411689
+      Anh_PPU_50_23: 2073841057
+      Anh_PPU_50_24: 1207814684
+      Anh_PPU_50_25: -1210099904
+      Anh_PPU_50_26: -263820267
+      Anh_PPU_50_27: -1801775611
+      Anh_PPU_50_28: 684001483
+      Anh_PPU_50_29: -1249302222
+      Anh_PPU_50_3: 66770761
+      Anh_PPU_50_30: -484453293
+      Anh_PPU_50_31: 693430253
+      Anh_PPU_50_32: -383790097
+      Anh_PPU_50_4: 794500761
+      Anh_PPU_50_5: -104680718
+      Anh_PPU_50_6: 559970260
+      Anh_PPU_50_7: 534792060
+      Anh_PPU_50_8: 961568524
+      Anh_PPU_50_9: 1880385070
+      Lab4_Before.png: 1674093544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
